@@ -16,7 +16,7 @@ int main(void)
     {
         printf("x is not less than y\n");
     }
-    if (x == y)
+    else
     {
         printf("x is equal to y\n");
     }
